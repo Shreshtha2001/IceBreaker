@@ -13,13 +13,13 @@ text {
         font-size:12px;
 	font-weight: bold;
 	top : 50%;
-        pointer-events:none;
+	pointer-events:none;
 
 }
 
 h1 {
         
-        margin-left:-1%;
+        margin-left:25%;
         margin-top:0;
       }
 #chart {
@@ -32,7 +32,7 @@ h1 {
 
     top: 0;
 
-    left: 0;
+    left: 6%;
 
 }
 
@@ -45,11 +45,11 @@ h1 {
 
     width: 400px;
 
-    height: 500px;
+    height: 400px;
 
     top: 0;
 
-    left: 520px;
+    left: 50%;
 
 }
 
