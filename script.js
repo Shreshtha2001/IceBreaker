@@ -1,4 +1,3 @@
-
 var padding = { top: 100, right: 40, bottom: 0, left: 150 },
 
     w = 500 - padding.left - padding.right,
